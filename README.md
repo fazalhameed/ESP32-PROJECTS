@@ -6,12 +6,26 @@ This repository contains a variety of projects and tasks developed for the ESP32
 
 ## Projects Included
 
-1. **LCD Interface**
-2. **ADC (Analog to Digital Converter)**
-3. **External Interrupt**
-4. **EEPROM**
-5. **Web Server**
-6. **Wi-Fi Connection**
+1. Button_LED
+2. PWM_led_controle
+3. ADC_Callibration
+4. ADC_Led_controle
+5. ADC_Noice reduction by Multi Sampling
+6. EEPROM
+7. Serial_Print
+8. ESP32 Web Server
+9. Wi-Fi Scanner
+10. Wi-Fi connection strength
+11. Change_MAC_Address
+12. Connecting_to_wifi_network
+13. ESP32_Bluetooth_Android_Smartphone
+14. External_Inturrupt
+15. LCD_Interface_without_I2C
+16. LCD_Scrolling_without_I2C
+17. I2C_Scanner
+18. I2C_LCD
+19. LCD_I2C_Scrolling
+20. Custom_character I2C
 
 ## Getting Started
 
