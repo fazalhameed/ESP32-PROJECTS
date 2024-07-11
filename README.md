@@ -37,6 +37,7 @@ To get started with these projects, follow these steps:
 
 2. Navigate to the project of interest.
 3. Follow the instructions in the project's README or code comments to set up your development environment and run the code on your ESP32 board.
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding more projects, improving existing code, or fixing bugs, feel free to fork the repository and submit a pull request. Your contributions are highly appreciated!
