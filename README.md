@@ -6,33 +6,33 @@ This repository contains a variety of projects and tasks developed for the ESP32
 
 ## Projects Included
 
-1. Button_LED
-2. PWM_led_controle
-3. ADC_Callibration
-4. ADC_Led_controle
-5. ADC_Noice reduction by Multi Sampling
-6. EEPROM
-7. Serial_Print
-8. ESP32 Web Server
-9. Wi-Fi Scanner
-10. Wi-Fi connection strength
-11. Change_MAC_Address
-12. Connecting_to_wifi_network
-13. ESP32_Bluetooth_Android_Smartphone
-14. External_Inturrupt
-15. LCD_Interface_without_I2C
-16. LCD_Scrolling_without_I2C
-17. I2C_Scanner
+1. ADC_Callibration
+2. ADC_Led_controle
+3. ADC_Noice reduction by Multi Sampling
+4. BLE_SERVER
+5. Button_LED
+6. Change_MAC_Address
+7. Connecting_to_wifi_network
+8. Custom_character I2C
+9. Deep_sleep_enable_timer_wakeup
+10. Deep_Sleep_with_External_Wake_Up
+11. Deep_Sleep_with_Touch_Wake_Up
+12. DHT11_Sensor_Interfacing_With_ESP32_BLE_Server
+13. DHT11_Sensor_Interfacing_With_ESP32_BLE_Server-LCD
+14. EEPROM
+15. ESP32_Bluetooth_Android_Smartphone
+16. ESP32 Web Server
+17. External_Inturrupt
 18. I2C_LCD
-19. LCD_I2C_Scrolling
-20. Custom_character I2C
-21. Serial_to_Serial_Bluetooth
-22. Deep_sleep_enable_timer_wakeup
-23. Deep_Sleep_with_External_Wake_Up
-24. Deep_Sleep_with_Touch_Wake_Up
-25. BLE_SERVER
-26. DHT11_Sensor_Interfacing_With_ESP32_BLE_Server
-27. DHT11_Sensor_Interfacing_With_ESP32_BLE_Server-LCD
+19. I2C_Scanner
+20. LCD_Interface_without_I2C
+21. LCD_I2C_Scrolling
+22. LCD_Scrolling_without_I2C
+23. PWM_led_controle
+24. Serial_Print
+25. Serial_to_Serial_Bluetooth
+26. Wi-Fi connection strength
+27. Wi-Fi Scanner
 
 ## Getting Started
 
