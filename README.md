@@ -26,6 +26,7 @@ This repository contains a variety of projects and tasks developed for the ESP32
 18. I2C_LCD
 19. LCD_I2C_Scrolling
 20. Custom_character I2C
+21. Serial_to_Serial_Bluetooth
 
 ## Getting Started
 
