@@ -27,6 +27,12 @@ This repository contains a variety of projects and tasks developed for the ESP32
 19. LCD_I2C_Scrolling
 20. Custom_character I2C
 21. Serial_to_Serial_Bluetooth
+22. Deep_sleep_enable_timer_wakeup
+23. Deep_Sleep_with_External_Wake_Up
+24. Deep_Sleep_with_Touch_Wake_Up
+25. BLE_SERVER
+26. DHT11_Sensor_Interfacing_With_ESP32_BLE_Server
+27. DHT11_Sensor_Interfacing_With_ESP32_BLE_Server-LCD
 
 ## Getting Started
 
