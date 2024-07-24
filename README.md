@@ -31,8 +31,9 @@ This repository contains a variety of projects and tasks developed for the ESP32
 23. PWM_led_controle
 24. Serial_Print
 25. Serial_to_Serial_Bluetooth
-26. Wi-Fi connection strength
-27. Wi-Fi Scanner
+26. Send Email 
+27. Wi-Fi connection strength
+28. Wi-Fi Scanner
 
 ## Getting Started
 
