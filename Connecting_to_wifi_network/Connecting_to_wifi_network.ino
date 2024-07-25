@@ -1,9 +1,8 @@
-
 #include <WiFi.h>
  
 // Replace with your own network credentials
-const char* ssid = "CST WIFI";
-const char* password = "iotdevs123";
+const char* ssid = "Use Your WIFI Name";
+const char* password = "Wifi Password";
  
 int WiFiStatus;
  
