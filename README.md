@@ -22,19 +22,21 @@ This repository contains a variety of projects and tasks developed for the ESP32
 14. EEPROM
 15. ESP32 Firebase DHT11 Sensor
 16. ESP32_Bluetooth_Android_Smartphone
-17. ESP32 Web Server
-18. External_Inturrupt
-19. I2C_LCD
-20. I2C_Scanner
-21. LCD_Interface_without_I2C
-22. LCD_I2C_Scrolling
-23. LCD_Scrolling_without_I2C
-24. PWM_led_controle
-25. Serial_Print
-26. Serial_to_Serial_Bluetooth
-27.  Send_Email_using_an_SMTP_Server
-28. Wi-Fi connection strength
-29. Wi-Fi Scanner
+17. ESP32_Read_From_Firebase_Database
+18. ESP32 Web Server
+19. External_Inturrupt
+20. Firebase
+21. I2C_LCD
+22. I2C_Scanner
+23. LCD_Interface_without_I2C
+24. LCD_I2C_Scrolling
+25. LCD_Scrolling_without_I2C
+26. PWM_led_controle
+27. Serial_Print
+28. Serial_to_Serial_Bluetooth
+29.  Send_Email_using_an_SMTP_Server
+30. Wi-Fi connection strength
+31. Wi-Fi Scanner
 
 ## Getting Started
 
