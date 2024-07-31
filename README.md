@@ -20,20 +20,21 @@ This repository contains a variety of projects and tasks developed for the ESP32
 12. DHT11_Sensor_Interfacing_With_ESP32_BLE_Server
 13. DHT11_Sensor_Interfacing_With_ESP32_BLE_Server-LCD
 14. EEPROM
-15. ESP32_Bluetooth_Android_Smartphone
-16. ESP32 Web Server
-17. External_Inturrupt
-18. I2C_LCD
-19. I2C_Scanner
-20. LCD_Interface_without_I2C
-21. LCD_I2C_Scrolling
-22. LCD_Scrolling_without_I2C
-23. PWM_led_controle
-24. Serial_Print
-25. Serial_to_Serial_Bluetooth
-26.  Send_Email_using_an_SMTP_Server
-27. Wi-Fi connection strength
-28. Wi-Fi Scanner
+15. ESP32 Firebase DHT11 Sensor
+16. ESP32_Bluetooth_Android_Smartphone
+17. ESP32 Web Server
+18. External_Inturrupt
+19. I2C_LCD
+20. I2C_Scanner
+21. LCD_Interface_without_I2C
+22. LCD_I2C_Scrolling
+23. LCD_Scrolling_without_I2C
+24. PWM_led_controle
+25. Serial_Print
+26. Serial_to_Serial_Bluetooth
+27.  Send_Email_using_an_SMTP_Server
+28. Wi-Fi connection strength
+29. Wi-Fi Scanner
 
 ## Getting Started
 
