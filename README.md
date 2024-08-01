@@ -40,7 +40,7 @@ This repository contains a variety of projects and tasks developed for the ESP32
 
 ## Getting Started
 
-To get started with these projects, follow these steps:
+To get started with these projects, follow these steps: 
 
 1. Clone the repository to your local machine:
    ```sh
