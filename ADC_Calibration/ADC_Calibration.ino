@@ -15,6 +15,7 @@ void loop()
   AN_Pot1_Result = analogRead(AN_Pot1);
   Voltage = readADC_Cal(AN_Pot1_Result);
   Serial.println(Voltage/1000.0); // Print Voltage (in V)
+ 
   //Serial.println(Voltage);      // Print Voltage (in mV)
   delay(100);
 }
