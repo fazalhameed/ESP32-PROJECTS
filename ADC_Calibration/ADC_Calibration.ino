@@ -1,5 +1,4 @@
 #include "esp_adc_cal.h"
- 
 #define AN_Pot1    35
  
 int AN_Pot1_Result = 0;
