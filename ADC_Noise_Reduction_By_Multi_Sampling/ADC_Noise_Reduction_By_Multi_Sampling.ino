@@ -12,7 +12,6 @@ void setup()
 {
   Serial.begin(115200);
 }
- 
 void loop()
 {
   AN_Pot1_Raw = analogRead(AN_Pot1);
