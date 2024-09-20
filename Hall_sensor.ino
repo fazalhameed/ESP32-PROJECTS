@@ -13,7 +13,6 @@ void IRAM_ATTR handleRotation() {
     lastDebounceTime = currentTime;  // Update the last debounce time
   }
 }
-
 void setup() {
   Serial.begin(115200);  // Initialize Serial Monitor
   pinMode(HALL_SENSOR_PIN, INPUT);  // Set Hall sensor pin as input
@@ -21,7 +20,6 @@ void setup() {
   // Attach interrupt to the Hall sensor pin
   attachInterrupt(digitalPinToInterrupt(HALL_SENSOR_PIN), handleRotation, FALLING);
 }
-
 void loop() {
   // Print the total number of detections
   Serial.print("Total detections: ");
