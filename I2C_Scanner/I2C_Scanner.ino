@@ -1,17 +1,16 @@
 #include <Wire.h>
- 
 #define I2C_Freq 100000
 #define SDA_0 21
 #define SCL_0 22
  
 TwoWire I2C_0 = TwoWire(0);
- 
+
 void setup()
 {
   Serial.begin(115200);
   I2C_0.begin(SDA_0 , SCL_0 , I2C_Freq);
 }
- 
+
 void loop()
 {
   byte error, address;
