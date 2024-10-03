@@ -28,7 +28,6 @@ void setup() {
 
   // Set the characteristic value
   pCharacteristic->setValue("Hello World says Fazal");
-
   // Start the service
   pService->start();
 
