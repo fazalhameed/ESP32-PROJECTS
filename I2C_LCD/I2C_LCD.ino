@@ -17,7 +17,6 @@ void setup()
   I2C_LCD1.print("Chip Soul");
 }
  
- 
 void loop()
 {
   
