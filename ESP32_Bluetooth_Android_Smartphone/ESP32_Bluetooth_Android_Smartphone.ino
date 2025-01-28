@@ -6,7 +6,6 @@
 #if !defined(CONFIG_BT_SPP_ENABLED)
 #error Serial Bluetooth not available or not enabled. It is only available for the ESP32 chip.
 #endif
-
 // LED GPIO Pin Definition
 #define LED_GPIO 25
 
