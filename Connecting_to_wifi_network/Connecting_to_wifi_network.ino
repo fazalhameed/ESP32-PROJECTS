@@ -39,7 +39,6 @@ void setup(){
     Serial.print("Local ESP32 IP: ");
     Serial.println(WiFi.localIP());
 }
- 
 void loop(){
   // Do Nothing
 }
