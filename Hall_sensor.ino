@@ -12,7 +12,7 @@ void IRAM_ATTR handleRotation() {
     rotationCount++;  // Increment the counter
     lastDebounceTime = currentTime;  // Update the last debounce time
   }
-}
+}  
 void setup() {
   Serial.begin(115200);  // Initialize Serial Monitor
   pinMode(HALL_SENSOR_PIN, INPUT);  // Set Hall sensor pin as input
