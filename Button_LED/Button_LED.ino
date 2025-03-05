@@ -12,7 +12,6 @@ void setup()
     // Initialize serial communication at 9600 baud rate
   Serial.begin(9600);
 }
- 
 void loop()
 {
   // Read The Button State
