@@ -25,7 +25,6 @@ void setup() {
                                          BLECharacteristic::PROPERTY_READ |
                                          BLECharacteristic::PROPERTY_WRITE
                                        );
-
   // Set the characteristic value
   pCharacteristic->setValue("Hello World says Fazal");
   // Start the service
