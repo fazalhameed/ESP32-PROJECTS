@@ -23,7 +23,6 @@ void setup(){
     Serial.print(WiFi.RSSI());
     Serial.println(" dBm");
 }
- 
 void loop(){
   // Do Nothing
 }
