@@ -24,6 +24,5 @@ void loop() {
   // Print the total number of detections
   Serial.print("Total detections: ");
   Serial.println(rotationCount);
-
   delay(500);  // Delay to reduce serial output clutter
 }
