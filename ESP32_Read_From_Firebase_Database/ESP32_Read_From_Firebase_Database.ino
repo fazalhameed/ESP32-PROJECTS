@@ -80,7 +80,6 @@ void loop() {
     else {
       Serial.println(fbdo.errorReason());
     }
-    
     if (Firebase.RTDB.getFloat(&fbdo, "/test/float")) {
       if (fbdo.dataType() == "float") {
         floatValue = fbdo.floatData();
