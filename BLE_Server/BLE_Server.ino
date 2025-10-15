@@ -29,7 +29,6 @@ void setup() {
   pCharacteristic->setValue("Hello World says Fazal");
   // Start the service
   pService->start();
-
   // Start advertising
   BLEAdvertising *pAdvertising = BLEDevice::getAdvertising();
   pAdvertising->addServiceUUID(SERVICE_UUID);
