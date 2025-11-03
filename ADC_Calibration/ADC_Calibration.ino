@@ -8,7 +8,7 @@ void setup()
 {
   Serial.begin(115200);
 }
- 
+
 void loop()
 {
   AN_Pot1_Result = analogRead(AN_Pot1);
