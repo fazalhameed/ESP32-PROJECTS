@@ -1,8 +1,7 @@
 #include "esp_adc_cal.h"
- 
 #define AN_Pot1     35
 #define FILTER_LEN  15
- 
+
 uint32_t AN_Pot1_Buffer[FILTER_LEN] = {0};
 int AN_Pot1_i = 0;
 int AN_Pot1_Raw = 0;
